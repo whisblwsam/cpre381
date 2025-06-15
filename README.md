@@ -1,2 +1,2 @@
 # cpre381
-homework solutions
+cpre3810 iowa state university homework solutions
